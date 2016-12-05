@@ -40,11 +40,12 @@ footer{
 	border: 1px solid black;
 	padding: 20px;
 	text-align: center;
-	font-size: 1em;
+	font-size: 1.2em;
+	text-decoration: bold;
 }
 #splash {
 	font-family: sans-serif;
-	background: url(../images/lightswitch4.png);
+	background: url(../images/lightswitch.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 90vh;
@@ -59,7 +60,7 @@ footer{
 	padding: 0;
 	margin: 0;
 	/* border: 3px solid red; */
-	color: #fff;
+	color: grey;
 }
 div.left {
 	padding: 0 4em;
@@ -96,12 +97,12 @@ nav a {
 	visibility:hidden;
 }
 section#history {
-    background: purple;
+    background: white;
     position: relative;
 }
 
 #splash img {
-    width: 20em;
+    width: 30em;
     border: .25em solid;
     padding: 1em 2em;
     position: absolute;
