@@ -178,7 +178,7 @@ div#electricity-metering-text {
 	width: 50%;
 	margin: auto;
 	font-size: 2em;
-	padding: 2em 0 0 0;
+	padding: 0 2em 2em 2em;
 	line-height: 1.5em;
 	text-decoration: none;
 }
@@ -190,7 +190,7 @@ div#electricity-metering-text {
 	color: #0a2340;
 }
 #contact-us h2 {
-	color: white;
+	color: #0a2340;
 	padding: .5em;
 	font-size: 1.5em;
 }
