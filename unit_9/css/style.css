@@ -239,6 +239,23 @@ div#electricity-metering-text {
 		left: 15%;
 		width: 70%;
 	}
+	#contact-us h2 {
+		color: #0a2340;
+		padding: 0;
+		font-size: 2em;
+		text-align: left;
+		margin: 0 0 1em 0;
+	}	
+	#contact-us-text {
+		text-align: left;
+		color: #0a2340;
+		width: 95%;
+		margin: auto;
+		font-size: 1.5em;
+		padding: 1em 0 1em 6em;
+		line-height: 1em;
+		text-decoration: none;
+	}
 }
 @media only screen and (max-width: 520px) {
 	#splash {
@@ -296,6 +313,9 @@ div#electricity-metering-text {
 		line-height: 1em;
 		text-decoration: none;
 	}
+	#contact-us-text img {
+		display: none;
+		}
 	@media only screen and (max-width: 370px) {
 	#splash {
 		background: none;
