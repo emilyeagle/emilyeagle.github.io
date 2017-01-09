@@ -144,7 +144,7 @@ div#electricity-metering-text {
 	color: black;
 	width: 40%;
 	margin: auto;
-	padding: 2em 0 2em 0;
+	padding: 2em 0;
 	line-height: 1.5em;
 }
 #electricity-metering h3 {
@@ -341,17 +341,15 @@ div#electricity-metering-text {
 	#splash img {
 	   display: none;
 	}
-
-
 	div#what-we-do-text {
-		width: 95%;
+		width: 98%;
 		margin: auto;
-		padding: 0;
+		padding: 2em 0;
 	}
 	div#electricity-metering-text {
-		width: 95%;
+		width: 98%;
 		margin: auto;
-		padding: .5em;
+		padding: 2em 0;
 	}
 	#optimisation-text {
 		float: none;
@@ -431,14 +429,14 @@ div#electricity-metering-text {
 	   display: none;
 	}
 	div#what-we-do-text {
-		width: 100%;
+		width: 98%;
 		margin: auto;
-		padding: 0;
+		padding: 2em 0;
 	}
 	div#electricity-metering-text {
-		width: 95%;
+		width: 98%;
 		margin: auto;
-		padding: .5em;
+		padding: 2em 0;
 	}
 	#optimisation-text {
 		float: none;
