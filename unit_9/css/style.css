@@ -362,8 +362,9 @@ div#electricity-metering-text {
     	display: none;
     }
 	#inset-networks-text {
-		width: 95%;
+		width: 98%;
 		margin: auto;
+		padding: 0;
     }  
     div.history-text {
 		transform: none;
@@ -448,8 +449,9 @@ div#electricity-metering-text {
     	display: none;
     }
 	#inset-networks-text {
-		width: 95%;
+		width: 98%;
 		margin: auto;
+		padding: 0;
     }  
     div.history-text {
 		transform: none;
