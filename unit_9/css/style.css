@@ -33,6 +33,11 @@ footer{
 	text-decoration: bold;
 	color: white;
 }
+footer img {
+	width: 8em;
+	position: relative;
+	padding-left: 1em;
+}
 #splash {
 	font-family: sans-serif;
 	background: url(../images/lightswitch.jpg);
@@ -50,6 +55,13 @@ footer{
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%)
+}
+#winconnect img{
+	width: 15em;
+	position: absolute;
+	top: 88%;
+    left: 95%;
+    transform: translate(-88%,-88%)
 }
 .history-text {
 	width: 50%;
