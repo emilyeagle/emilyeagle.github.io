@@ -411,6 +411,8 @@ footer img {
 	#fax-icon img {
 		display: none;
 	}
+	#winconnect img {
+		display: none;
 }
 	@media only screen and (max-width: 370px) {
 	 #saes-background { 
@@ -491,6 +493,9 @@ footer img {
 	}
 	#contact-us-text img {
 	display: none;
+	}
+	#winconnect img {
+		display: none;
 	}
 }
 	
