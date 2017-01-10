@@ -25,19 +25,6 @@ main {
 	background-color: #eae6e6;
 	padding: none;
 }
-footer{
-	background-color: grey;
-	padding: 1.3em;
-	text-align: center;
-	font-size: 1.2em;
-	text-decoration: bold;
-	color: white;
-}
-footer img {
-	width: 8em;
-	position: relative;
-	padding-left: 1em;
-}
 #splash {
 	font-family: sans-serif;
 	background: url(../images/lightswitch.jpg);
@@ -213,6 +200,19 @@ div#electricity-metering-text {
 	width: 40px;
 	margin: .1em;
 }
+footer{
+	background-color: grey;
+	padding: 1.3em;
+	text-align: center;
+	font-size: 1.2em;
+	text-decoration: bold;
+	color: white;
+}
+footer img {
+	width: 8em;
+	position: relative;
+	padding-left: 1em;
+}
 
 
 
@@ -320,6 +320,9 @@ div#electricity-metering-text {
 	#contact-us-text img {
 		width: 5%;
 		}
+	#winconnect img {
+		display: none;
+	}
  }
 
 @media only screen and (max-width: 540px) {
